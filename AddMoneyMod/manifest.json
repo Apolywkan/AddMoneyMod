@@ -1,0 +1,10 @@
+{
+    "name": "AddMoneyMod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Apolywkan/AddMoneyMod",
+    "description": "A mod for Lethal Company that allows you to add credits through the in-game terminal",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+	"NotAtomicBomb-TerminalApi-1.5.1"
+    ]
+}
